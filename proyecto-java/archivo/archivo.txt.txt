@@ -1,0 +1,4 @@
+Primer parcial - programación recurrente y paralela -- 2024
+
+
+Agregados cambios en rama nueva-característica
